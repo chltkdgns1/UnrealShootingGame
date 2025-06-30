@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/Maps/MainMap.umap",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/BluePrints/BP_GameBaseMode.uasset",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/BluePrints/BP_Player.uasset",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/BluePrints/IA_Horizontal.uasset",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/BluePrints/IMC_PlayerInput.uasset",
+				"C:/Users/chltkdgnsska/Documents/Unreal Projects/HelloWorld/ShootingProject/ShootingGame/Content/BluePrints/IA_Vertical.uasset"
+			]
+		}
+	]
+}
